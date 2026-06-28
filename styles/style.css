@@ -1,1 +1,80 @@
-/* место для вашего кода */
+body {
+width: 1100px;
+height: 3028px;
+angle: 0 deg;
+opacity: 1;
+background: #FFFFFF;
+
+}
+
+
+header  {
+  display: flex;
+  align-items:center;
+  width: 1100px;
+    height: 293px;
+    angle: 0 deg;
+    opacity: 1;
+}
+
+.menu {
+font-family: Raleway;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: 0%;
+
+
+}
+.menu {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+
+}
+
+.menu li {
+  margin-left: 24px;           /* отступы между пунктами */
+}
+
+
+
+
+
+
+
+.header {
+}
+
+.cover {
+
+}
+.description {
+
+}
+
+.lots {
+
+}
+
+.about {
+
+}
+
+.logo-column {
+
+}
+
+.about-column {
+
+}
+
+.description-block {
+
+}
+
+.footer {
+
+}
