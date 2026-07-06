@@ -26,9 +26,10 @@
 
 .header__link_active {
 list-style: none;
+
 }
 
-.header__links-list-item_no-bullit .header__links-list-item {
+.header__link_active .header__links-list-item_no-bullit {
 text-decoration: none;
 
 }
@@ -334,7 +335,7 @@ text-transform: uppercase;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   align-items: start;
-  padding: 180px 0px;
+  padding-top: 180px;
 }
 .footer_address {
   justify-self: center;
